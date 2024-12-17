@@ -1,0 +1,35 @@
+.footer{
+    margin-top: 147px;
+    background-color:#ab042b;
+    height: 200px;
+}
+
+
+ .social a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: #cca45d;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    margin: 0 12px 12px 0;
+    border-radius: 50%;
+    transition: 0.4s;
+}
+ .social a:hover{
+    transform: scale(1.2);
+    color: #000;
+    background-color: white;
+}
+
+.social{
+    text-align: center;
+    margin: 30px 0;
+}
+
+.headfoot{
+    margin-top: 40px;
+    text-align: center;
+    color: #fff;
+}

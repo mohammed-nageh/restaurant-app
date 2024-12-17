@@ -1,0 +1,24 @@
+
+
+
+.ainiimg{
+    position: absolute;
+    left: 39%;
+    top: 986px;
+    width: 272px;
+    animation-name: color;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-fill-mode: backwards;
+    animation-direction: alternate;
+    animation-timing-function: ease-out;
+}
+
+@keyframes color{
+    from{
+      transform: translateY(30px);
+    }
+    to{
+        transform: translateY(-30px);
+    }
+}

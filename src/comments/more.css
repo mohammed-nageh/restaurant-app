@@ -1,0 +1,125 @@
+
+.headmore{
+    margin-top: 147px;
+}
+
+
+
+.morehead{
+    color:#a82d49 ; 
+   text-align: center;
+}
+
+.textOne p{
+    font-size: 20px;
+    line-height: 28px;
+    color: #333;
+}
+
+.textOne p span{
+    color: #a82d49;
+    font-size: 30px;
+}
+
+.textTwo p span{
+    color: #a82d49;
+    font-size: 30px;
+}
+
+
+.textTwo p{
+    font-size: 20px;
+    line-height: 28px;
+    color: #333;
+}
+
+
+.textthere p{
+    font-size: 20px;
+    line-height: 28px;
+    color: #333;
+}
+
+.textthere p span{
+    color: #a82d49;
+    font-size: 30px;
+}
+
+
+.textfour p {
+    font-size: 20px;
+    line-height: 28px;
+    color: #333;
+}
+
+.textfour p span{
+    color: #a82d49;
+    font-size: 30px;
+}
+
+.move{
+    transform: translateY(38px);
+}
+
+
+.backhead{
+    background: url("../asset/200.webp") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    padding: 25px 0px;
+}
+
+.backhead div p{
+    font-size: 25px;
+    line-height: 28px;
+    color:#fff;
+    margin-top: 15px;
+    font-weight: bold;
+
+}
+.backhead div button{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    transition: .2s ease;
+    transform:translateX(322px)
+}
+
+.backhead div button a{
+
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+
+.backhead button a:hover{
+    color: #a82d49;
+    
+}
+
+.backhead button:hover{
+    background-color: transparent;
+}
+
+
+
+
+
+
+.d{
+    color:red;
+}
+
+

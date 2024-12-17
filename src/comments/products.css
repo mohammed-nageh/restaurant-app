@@ -1,0 +1,70 @@
+
+
+.parnetProducts{
+    margin-top: 147px;
+   
+}
+
+
+.delete{
+    color: #ff0000;
+    position: relative;
+    left: 13px;
+}
+
+
+
+
+
+.headExplore{
+   color:#a82d49 ; 
+   text-align: center;
+}
+
+.para{
+    font-size: 25px;
+    line-height: 28px;
+    color: #333;
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.order{
+    background-color: #a82d49;
+    border: 1px solid #a82d49;
+    box-sizing: border-box;
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    margin-top: 20px;
+    transition: .2s ease;
+text-transform: uppercase;
+}
+
+.order a{
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+.order  a:hover{
+    color: #a82d49 ;
+
+}
+
+.order:hover{
+    background-color: #fff ;
+}
+
+.dive:hover{
+    transform: scale(1.1);
+    transition: .2s ease-in-out;
+}
+
+
+
+

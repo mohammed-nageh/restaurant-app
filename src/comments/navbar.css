@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0%;
+    position: fixed;
+    z-index: 5;
+    
+
+}
+
+.navbar a{
+    color: #a82d49 !important;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+.ols:hover{
+transform: scale(1.1);
+transition: .2s ease-in-out;
+transform: translateY(-5px);
+}
+
+
+
